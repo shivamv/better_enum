@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Akshay Rao | Shivam"]
   spec.email         = ["shvamverma@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
+  spec.summary       = %q{Better enum is an enum wrapper}
   spec.description   = %q{Better Enum is a wrapper of enum in ruby, which stores the changes, authers and timestamp of the changes of different enum states}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
